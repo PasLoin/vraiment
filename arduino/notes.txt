@@ -1,0 +1,2 @@
+# const int => variable qui ne peut être modifiée, juste en lecture seule
+# int=> variable modifiable par la suite dans le code
